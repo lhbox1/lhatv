@@ -1,5 +1,5 @@
 #!/bin/bash
-#wget --no-check-certificate -O ql-install.sh https://raw.githubusercontent.com/lhbox1/lhatv/main/QL/ql-install.sh && bash ql-install.sh
+#wget --no-check-certificate -O ql-install.sh https://cdn.jsdelivr.net/gh/lhbox1/lhatv/QL/ql-install.sh && bash ql-install.sh
 #青龙搭建自定义
 echo -e "\033[34m 搭建青龙脚本-2.10.13 \033[0m"
 read -p "请输入自定义青龙端口并回车：" uport
@@ -20,7 +20,7 @@ docker run -dit \
   --restart unless-stopped \
   whyour/qinglong:2.10.13
 echo "正在导入常用依赖文件"
-wget --no-check-certificate -O /home/ql/db/dependence.db https://raw.githubusercontent.com/lhbox1/lhatv/main/QL/depenence.db
+wget --no-check-certificate -O /home/ql/db/dependence.db https://cdn.jsdelivr.net/gh/lhbox1/lhatv/QL/depenence.db
 echo "升级pip版本"
 docker exec qinglong /bin/bash -c "pip3 install --upgrade pip"
 echo -e "\033[34m 安装完成 \033[0m"
