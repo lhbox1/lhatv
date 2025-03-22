@@ -1,0 +1,25 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,qichiyu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+
+# 国外代理
+
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,im30app.com
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,ipcheck.ing
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,aktv.top
+DOMAIN-SUFFIX,189989.xyz
+DOMAIN-SUFFIX,qinggejiaofu.top
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,fr0307a.art
