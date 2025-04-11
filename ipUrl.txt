@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/lhbox1/lhatv/main/ip.txt@132.226.7.217
 https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
+https://raw.githubusercontent.com/lhbox1/lhatv/main/ym.txt@155.248.181.189
